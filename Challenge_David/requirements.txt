@@ -1,0 +1,18 @@
+#Core application and web server
+fastapi
+uvicorn[standard]
+
+#Database and data handling
+sqlalchemy
+pandas
+
+#Web scraping and browser automation
+selenium
+webdriver-manager
+beautifulsoup4
+
+#Google AI for LLM services
+google-generativeai
+
+#For loading environment variables (optional but good practice)
+python-dotenv
